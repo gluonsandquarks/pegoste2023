@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "pegoste2023")(type "KiCad")(uri "C:/Users/Usuario/Repos/pegoste2023/pegoste2023.pretty")(options "")(descr ""))
+  (lib (name "diablitopegoste")(type "KiCad")(uri "C:/Users/Usuario/Repos/pegoste2023/diablitopegoste.pretty")(options "")(descr ""))
+  (lib (name "pegostemirrored")(type "KiCad")(uri "C:/Users/Usuario/Repos/pegoste2023/pegostemirrored.pretty")(options "")(descr ""))
+)
